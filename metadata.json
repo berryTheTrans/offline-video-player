@@ -1,0 +1,7 @@
+{
+  "name": "VividPlayer AI",
+  "description": "A premium, browser-based local video player with a sleek modern UI and AI-powered scene description capabilities using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
